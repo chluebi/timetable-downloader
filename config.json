@@ -1,0 +1,14 @@
+{
+  "selenium": {
+    "path-to-gecko": ""
+  },
+  "website": {
+    "url" : "",
+    "username": "",
+    "password":""
+  },
+  "discord": {
+    "client-id": "",
+    "secret": ""
+  }
+}
