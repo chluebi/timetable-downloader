@@ -12,3 +12,5 @@ h\.png
 __pycache__/
 
 \.idea/
+
+config\.json
