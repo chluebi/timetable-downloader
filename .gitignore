@@ -1,0 +1,14 @@
+
+geckodriver\.log
+
+cut_h\.png
+
+geckodriver\.exe
+
+h\.html
+
+h\.png
+
+__pycache__/
+
+\.idea/
