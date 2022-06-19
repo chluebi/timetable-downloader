@@ -1,19 +1,20 @@
 # timetable-downloader
 A short side project that downloads my timetable and sends it to me via Discord.
 
-## How to use it yourself
+# How to Use
+You will need to hook up a Selenium compatible browser with this and also connect to a discord bot. This website is useless if you are not exactly in the school I am.
 
-##### Step 1:
-Get geckodriver.
+### Tags
 
-##### Step 2:
-Edit the config to your needs.
+#### Languages
+- Python
 
-##### Step 3:
-Run 'bot.py' if you want the full-fledged Discord bot.
-Run 'main.py' if you only want to one-time download the timetable.
+#### Libraries
+- discord.py
+- PIL
+- selenium
 
-## Dependencies
-- Geckodriver
-- Selenium
-- Discord.py
+#### Miscellaneous
+- async
+- productivity
+- dogfood
