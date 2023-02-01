@@ -1,4 +1,5 @@
 # timetable-downloader
+
 A short side project that downloads my timetable and sends it to me via Discord.
 
 # How to Use
